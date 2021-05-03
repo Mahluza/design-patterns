@@ -5,4 +5,4 @@
 
 * Logger.java implements the log.<br>
 * LoggerTest.java tests some aspects of the Singleton.<br>
-* RepeatException.java creates an exception that is thrown when the Singleton is violated.
+* RepeatException.java creates an exception that is thrown when the Singleton principle is violated.
