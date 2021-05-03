@@ -3,6 +3,6 @@
 ### Directory Structure:
 <img src="images/git_folder_structure.png" width="250"/>
 
-**Logger.java implements the log.**
-**LoggerTest.java tests some aspects of the Singleton.**
+**Logger.java implements the log.**<br>
+**LoggerTest.java tests some aspects of the Singleton.**<br>
 **RepeatException.java creates an exception that is thrown when the Singleton is violated.**
