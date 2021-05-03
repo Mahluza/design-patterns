@@ -18,7 +18,7 @@ public class Logger {
     /**
      * Default constructor
      */
-    public Logger(){}
+    private Logger(){}
 
     /**
      * Construct Singleton instance
